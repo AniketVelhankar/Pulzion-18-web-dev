@@ -1,4 +1,4 @@
-# DevashishPrasad.github.io
+# AniketVelhankar.github.io
 This website was made for the competition PULZION 18 PICT
 ## Made by Devashish K Prasad and Aniket A Velhankar
 ## Please Use a good internet connection to view the site (512Kb/s n above)
@@ -22,4 +22,4 @@ Some features or effects of website may fail on certain devices.<br>
 Website uses HD pictures and thus may load slow. Thus, a good internet connection is adviced.
 
 ## View Website here
-https://devashishprasad.github.io/
+https://aniketvelhankar.github.io/
