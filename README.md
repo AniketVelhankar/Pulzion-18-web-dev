@@ -1,4 +1,4 @@
-# AniketVelhankar.github.io
+# Pulzion-18 web development event
 This website was made for the competition PULZION 18 PICT
 ## Made by Devashish K Prasad and Aniket A Velhankar
 ## Please Use a good internet connection to view the site (512Kb/s n above)
