@@ -1,5 +1,5 @@
 # Pulzion-18 web development event
-This website was made for the competition PULZION 18 PICT
+PULZION 18 PICT Problem Statement : Develop website for space org. of India showcasing various missions and achievements.
 ## Made by Devashish K Prasad and Aniket A Velhankar
 ## Please Use a good internet connection to view the site (512Kb/s n above)
 
