@@ -20,6 +20,3 @@ Some features or effects of website may fail on certain devices.<br>
 
 ## Heaviness
 Website uses HD pictures and thus may load slow. Thus, a good internet connection is adviced.
-
-## View Website here
-https://aniketvelhankar.github.io/
